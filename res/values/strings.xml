@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gallery Demo</string>
+    <string name="title_image_detail">Image Detail</string>
+    <string name="imageDescription">"A picture from Harry Potter"</string>
+
+</resources>
